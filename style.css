@@ -1,0 +1,27 @@
+.celda{             
+    font-size:40px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    background:#0000;
+    vertical-align: text-bottom;
+    width:100px;
+    height:100px;
+}
+
+.restart_button{
+   text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+
+}
+
+.winner{
+  font-weight:bold;
+  color: #1883ba;
+  font-size:30px;
+}
