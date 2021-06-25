@@ -18,6 +18,7 @@ var numTurn = 0;
         document.getElementById('c'+ i).disabled = false;
         document.getElementById('c'+i).innerHTML = '';
       }
+      document.getElementById('ganador').innerHTML = "";
     }
 
     function disabledcell(){
